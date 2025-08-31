@@ -1,0 +1,1 @@
+# Simulaci-n_de_sistemas_mec-nicos._Movimiento_traslacional.
